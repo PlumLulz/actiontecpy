@@ -4,7 +4,7 @@ ActionTec PK5000 and Q1000  Keygen
 SSID are myqwestDDDD\
 Use mac-1 from the sticker\
 Huge thank you to selenium on hashkiller for the QEMU implementation of the AEI_wlGenerateQwestDefaultKey\
-function in /lib/libwlmngr.so
+Function in /lib/libwlmngr.so
 
 Usage: python3 actiontec.py a83944029230
 
